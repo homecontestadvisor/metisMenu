@@ -1,10 +1,11 @@
 {
-  "name": "metisMenu",
-  "homepage": "https://github.com/onokumus/metisMenu",
+  "name": "metisMenu-hca",
+  "version": "2.0.2",
+  "homepage": "https://github.com/homecontestadvisor/metisMenu.git",
   "authors": [
-    "onokumus <onokumus@gmail.com>"
+    "onokumus <igor.ioriati@hotmail.com>"
   ],
-  "description": "A jQuery menu plugin",
+  "description": "When one item dont have subItems and href is set navigate on click activate and navigate",
   "main": [
     "dist/metisMenu.js",
     "dist/metisMenu.css"
