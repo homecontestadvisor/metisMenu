@@ -137,6 +137,12 @@
             return;
           }
         }
+          //If we dont have children and the href is set navigate to href
+          if($list.children().length===0 && self.attr('href') !== '#' && self.attr('href') !== ''){
+            e.stopPropagation();
+            document.location = self.attr('href');
+            return;
+          }
       });
   };
 
