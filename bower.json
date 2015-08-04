@@ -3,7 +3,7 @@
   "version": "2.0.4",
   "homepage": "https://github.com/homecontestadvisor/metisMenu.git",
   "authors": [
-    "onokumus <igor.ioriati@hotmail.com>"
+    "Igor ioriatti  <igor.ioriati@hotmail.com>"
   ],
   "description": "When one item dont have subItems and href is set navigate on click activate and navigate",
   "main": [

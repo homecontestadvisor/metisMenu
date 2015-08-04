@@ -1,14 +1,14 @@
 {
   "name": "metismenu",
   "version": "2.0.3",
-  "description": "A jQuery menu plugin",
+  "description": "When one item dont have subItems and href is set navigate on click activate and navigate",
   "main": "./dist/metisMenu.js",
   "scripts": {
     "test": "grunt travis --verbose"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/onokumus/metisMenu.git"
+    "url": "https://github.com/homecontestadvisor/metisMenu.git"
   },
   "keywords": [
     "twitter",
@@ -22,15 +22,14 @@
     "metisMenu"
   ],
   "author": {
-    "name": "Osman Nuri Okumus",
-    "email": "onokumus@gmail.com",
-    "url": " http://onokumus.com/"
+    "name": "Igor Ioriatti",
+    "email": "igor.ioriatti@hotmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onokumus/metisMenu/issues"
+    "url": "https://github.com/homecontestadvisor/metisMenu/issues"
   },
-  "homepage": "https://github.com/onokumus/metisMenu",
+  "homepage": "https://github.com/homecontestadvisor/metisMenu",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-banner": "^0.4.0",

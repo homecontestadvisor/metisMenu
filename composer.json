@@ -1,6 +1,6 @@
 {
-  "name": "onokumus/metismenu",
-  "description": "A jQuery menu plugin",
+  "name": "homecontestadvisor/metisMenu",
+  "description": "When one item dont have subItems and href is set navigate on click activate and navigate",
   "keywords": [
     "menu",
     "plugin",
@@ -10,16 +10,15 @@
     "js",
     "bootstrap"
   ],
-  "homepage": "https://github.com/onokumus/metisMenu",
+  "homepage": "https://github.com/homecontestadvisor/metisMenu",
   "authors": [
     {
-      "name": "Osman Nuri Okumus",
-      "email": "onokumus@gmail.com",
-      "homepage": "http://onokumus.com"
+      "name": "Igor ioriatti",
+      "email": "igor.ioriatti@hotmail.com"
     }
   ],
   "support": {
-    "issues": "https://github.com/onokumus/metisMenu/issues"
+    "issues": "https://github.com/homecontestadvisor/metisMenu/issues"
   },
   "license": "MIT",
   "suggest": {
