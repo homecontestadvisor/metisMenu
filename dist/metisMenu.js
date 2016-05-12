@@ -1,9 +1,9 @@
 /*
  * metismenu - v2.0.3
- * A jQuery menu plugin
- * https://github.com/onokumus/metisMenu
+ * When one item dont have subItems and href is set navigate on click activate and navigate
+ * https://github.com/homecontestadvisor/metisMenu
  *
- * Made by Osman Nuri Okumus
+ * Made by Igor Ioriatti
  * Under MIT License
  */
 
@@ -138,7 +138,8 @@
           }
         }
           //If we dont have children and the href is set navigate to href
-          if($list.children().length===0 && self.attr('href') !== '#' && self.attr('href') !== ''){
+          //if($list.children().length===0 && self.attr('href') !== '#' && self.attr('href') !== ''){
+          if(self.attr('href') !== '#' && self.attr('href') !== ''){
             e.stopPropagation();
             document.location = self.attr('href');
             return;
